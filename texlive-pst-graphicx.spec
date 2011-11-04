@@ -46,6 +46,7 @@ with pstricks' use of xkeyval.
 %doc %{_texmfdistdir}/doc/generic/pst-graphicx/Changes
 %doc %{_texmfdistdir}/doc/generic/pst-graphicx/README
 %doc %{_texmfdistdir}/doc/generic/pst-graphicx/demo.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -56,3 +57,5 @@ with pstricks' use of xkeyval.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
