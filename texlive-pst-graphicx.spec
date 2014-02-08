@@ -6,7 +6,7 @@
 # catalog-version 0.02
 Name:		texlive-pst-graphicx
 Version:	0.02
-Release:	2
+Release:	3
 Summary:	A pstricks-compatible graphicx for use with Plain TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-graphicx
