@@ -1,6 +1,6 @@
 Name:		texlive-pst-graphicx
 Version:	21717
-Release:	1
+Release:	2
 Summary:	A pstricks-compatible graphicx for use with Plain TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-graphicx
