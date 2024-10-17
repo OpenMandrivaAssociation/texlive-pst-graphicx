@@ -3,7 +3,7 @@ Version:	21717
 Release:	2
 Summary:	A pstricks-compatible graphicx for use with Plain TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-graphicx
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-graphicx
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-graphicx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-graphicx.doc.r%{version}.tar.xz
